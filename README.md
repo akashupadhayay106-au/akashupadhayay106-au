@@ -13,9 +13,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Active%20Educator-success?style=for-the-badge&logo=google-classroom" />
-  <img src="https://img.shields.io/badge/Location-Pune%2C%20India-blue?style=for-the-badge&logo=google-maps" />
-  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Data%20Science-orange?style=for-the-badge&logo=target" />
+  <a href="https://akashupadhayay106-au.github.io/akashupadhayay106-au/">
+    <img src="https://img.shields.io/badge/Live%20Portfolio-View%20Now-2196F3?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -25,7 +25,6 @@
 <table align="center" border="0">
   <tr>
     <td align="center" width="35%" style="vertical-align: top;">
-      <!-- Profile Picture Placeholder -->
       <img src="https://raw.githubusercontent.com/akashupadhayay106-au/akashupadhayay106-au/main/profile.png" width="240" style="border-radius: 20px; box-shadow: 0 10px 30px rgba(33, 150, 243, 0.3); border: 4px solid #2196F3;" alt="Kalicharan Upadhayay" />
       <br/><br/>
       <div align="center">
@@ -65,39 +64,11 @@
       <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
     </td>
   </tr>
-  <tr>
-    <td align="center" width="50%">
-      <b>Visualization & Analytics</b><br/><br/>
-      <img src="https://skillicons.dev/icons?i=pbi,tableau,excel" />
-    </td>
-    <td align="center" width="50%">
-      <b>Tools & Workflow</b><br/><br/>
-      <img src="https://skillicons.dev/icons?i=vscode,colab,jupyter" /><br/>
-      <img src="https://img.shields.io/badge/n8n-FF6D5A?style=flat&logo=n8n&logoColor=white" />
-      <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=flat&logo=openai&logoColor=white" />
-    </td>
-  </tr>
 </table>
 
 ---
 
-### 💼 Teaching & Mentoring Dashboard
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Students%20Mentored-50+-blue?style=for-the-badge&logo=google-classroom" />
-  <img src="https://img.shields.io/badge/Live%20Sessions-30+-success?style=for-the-badge&logo=youtube" />
-  <img src="https://img.shields.io/badge/Projects%20Guided-20+-orange?style=for-the-badge&logo=github" />
-</p>
-
-> "The best way to learn is to teach, and the best way to teach is through real-world implementation."
-
-- 🎥 **YouTube Educator**: Delivered live sessions teaching Data Science from scratch.
-- 🛠️ **Project Mentor**: Guided students through 20+ end-to-end Machine Learning and Analytics projects.
-- 🎓 **Curriculum Developer**: Created hands-on learning paths for Python, EDA, and Predictive Modeling.
-
----
-
-### 📊 GitHub Analytics
+### � GitHub Dashboard
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=akashupadhayay106-au&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" width="48%" />
@@ -110,7 +81,7 @@
 
 ---
 
-### 📅 Activity & Contributions
+### 📅 System Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=akashupadhayay106-au&theme=tokyonight&hide_border=true&area=true" width="100%" />

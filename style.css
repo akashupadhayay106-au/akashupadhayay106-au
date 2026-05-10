@@ -1,0 +1,147 @@
+:root {
+    --primary: #2196F3;
+    --bg: #0a0a0a;
+    --glass: rgba(255, 255, 255, 0.05);
+    --border: rgba(255, 255, 255, 0.1);
+    --text: #ffffff;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Inter', sans-serif;
+    background-color: var(--bg);
+    color: var(--text);
+    overflow-x: hidden;
+}
+
+.glass-container {
+    max-width: 1200px;
+    margin: 40px auto;
+    background: var(--glass);
+    backdrop-filter: blur(20px);
+    border: 1px solid var(--border);
+    border-radius: 30px;
+    padding: 40px;
+    min-height: 90vh;
+    position: relative;
+    z-index: 10;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 80px;
+}
+
+.logo {
+    font-size: 1.5rem;
+    font-weight: 800;
+    color: var(--primary);
+}
+
+nav ul {
+    display: flex;
+    list-style: none;
+    gap: 30px;
+}
+
+nav a {
+    text-decoration: none;
+    color: var(--text);
+    opacity: 0.7;
+    transition: 0.3s;
+}
+
+nav a:hover {
+    opacity: 1;
+    color: var(--primary);
+}
+
+.hero {
+    display: flex;
+    align-items: center;
+    gap: 50px;
+    padding: 60px 0;
+}
+
+.hero-content h1 {
+    font-size: 4rem;
+    margin-bottom: 10px;
+}
+
+.tagline {
+    font-size: 1.5rem;
+    color: var(--primary);
+    margin-bottom: 30px;
+}
+
+.hero-btns {
+    display: flex;
+    gap: 20px;
+}
+
+.btn {
+    padding: 12px 30px;
+    border-radius: 12px;
+    text-decoration: none;
+    font-weight: 600;
+    transition: 0.3s;
+}
+
+.btn.primary {
+    background: var(--primary);
+    color: white;
+}
+
+.btn.secondary {
+    border: 1px solid var(--primary);
+    color: var(--primary);
+}
+
+.stats-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 30px;
+    margin-top: 80px;
+}
+
+.stat-card {
+    background: rgba(255, 255, 255, 0.03);
+    padding: 30px;
+    border-radius: 20px;
+    text-align: center;
+    border: 1px solid var(--border);
+}
+
+.stat-card h3 {
+    font-size: 2.5rem;
+    color: var(--primary);
+}
+
+.background-blobs {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+}
+
+.blob {
+    position: absolute;
+    width: 500px;
+    height: 500px;
+    background: var(--primary);
+    filter: blur(150px);
+    opacity: 0.15;
+    border-radius: 50%;
+}
+
+.blob-1 { top: -100px; right: -100px; }
+.blob-2 { bottom: -100px; left: -100px; }
