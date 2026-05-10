@@ -48,71 +48,51 @@
 
 ---
 
-<h2 align="center">🛠️ Technical Arsenal</h2>
+<h2 align="center">📊 Data Insights & Analytics Dashboard</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Real--Time-Active-success?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAX0lEQVQ4y2P4//8/AyUYGfAFX758YSAH/PnzB4MByAAnGBlwBpBqAMXmYDQ6GByNDgZHo4PB0ehgcDQ6GByNDgZHo4PB0ehgcDQ6GByNDgZHo4PB0ehgcDQ6GByNDgYHAwCvFRP8mN7y7AAAAABJRU5ErkJggg==" />
+</p>
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Students%20Mentored-50+-blue?style=for-the-badge&logo=google-classroom" /><br/>
+      <small>Continuous Growth</small>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Projects%20Delivered-20+-orange?style=for-the-badge&logo=github" /><br/>
+      <small>Industry Standard</small>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Live%20Sessions-30+-success?style=for-the-badge&logo=youtube" /><br/>
+      <small>Knowledge Sharing</small>
+    </td>
+  </tr>
+</table>
+
+<br/>
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td align="center"><b>Core Tech</b></td>
-      <td align="center"><b>Data Mastery</b></td>
-      <td align="center"><b>Tools & AI</b></td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=python,sql,git,github,mysql,postgres" />
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,sklearn" />
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=pbi,tableau,excel,vscode,colab,jupyter" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <br/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
+  <h3>⚡ Skill Proficiency Index</h3>
+  <img src="https://skill-points.vercel.app/api?username=akashupadhayay106-au&theme=tokyonight" width="80%" />
 </div>
 
 <br/>
 
----
-
-<h2 align="center">💼 Professional Milestone</h2>
-
 <table align="center" width="100%">
   <tr>
-    <td>
-      <b>🚀 Data Science Trainer</b> | Skillected JSSAV Education Pvt Ltd <br/>
-      <i>Feb 2026 – Present</i>
-      <ul>
-        <li>Orchestrating intensive training modules on EDA and Predictive Modeling.</li>
-        <li>Guiding students through real-world data preprocessing challenges.</li>
-      </ul>
+    <td width="50%">
+      <h3 align="center">🛠️ Technical Stack</h3>
+      <div align="center">
+        <img src="https://skillicons.dev/icons?i=python,sql,git,github,mysql,postgres,py,tensorflow,pytorch,sklearn,pbi,tableau,excel,vscode,colab,jupyter" />
+      </div>
     </td>
-  </tr>
-  <tr>
-    <td>
-      <b>🎓 Data Analyst Trainer</b> | Defence Guru Cyber Education <br/>
-      <i>Jun 2025 – Dec 2025</i>
-      <ul>
-        <li>Successfully mentored 50+ aspiring analysts in Python and SQL.</li>
-        <li>Delivered hands-on project sessions to extract business insights.</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <b>📊 Data Operations Associate</b> | Nandini Enterprises (Cipla Ltd) <br/>
-      <i>Mar 2023 – Aug 2024</i>
-      <ul>
-        <li>Optimized data validation processes and analytical reporting workflows.</li>
-      </ul>
+    <td width="50%">
+      <h3 align="center">📊 Analytics Views</h3>
+      <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashupadhayay106-au&layout=compact&theme=tokyonight&hide_border=true" />
+      </p>
     </td>
   </tr>
 </table>
@@ -121,11 +101,37 @@
 
 ---
 
-<h2 align="center">📈 Analytics & Activity</h2>
+<h2 align="center">💼 Professional Milestone Dashboard</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akashupadhayay106-au&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashupadhayay106-au&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akashupadhayay106-au&theme=tokyonight&hide_border=true&area=true" width="100%" />
+</p>
+
+<table align="center" width="100%">
+  <tr>
+    <td style="border-left: 4px solid #2196F3; padding-left: 15px;">
+      <h3 style="color: #2196F3;">🚀 Data Science Trainer</h3>
+      <b>Skillected JSSAV Education Pvt Ltd</b> | <i>Feb 2026 – Present</i>
+      <p>Delivering high-fidelity training on EDA, Predictive Modeling, and Python-based Analytics.</p>
+    </td>
+  </tr>
+  <tr>
+    <td style="border-left: 4px solid #4CAF50; padding-left: 15px;">
+      <h3 style="color: #4CAF50;">🎓 Data Analyst Trainer</h3>
+      <b>Defence Guru Cyber Education</b> | <i>Jun 2025 – Dec 2025</i>
+      <p>Mentored students in SQL & Python analytics, focusing on real-world business intelligence.</p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+---
+
+<h2 align="center">📈 Real-Time GitHub Performance</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akashupadhayay106-au&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%" />
 </p>
 
 <p align="center">
@@ -136,17 +142,19 @@
 
 ---
 
-<h2 align="center">🐍 Snake Contribution</h2>
+<h2 align="center">🐍 Contribution Dynamics</h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/akashupadhayay106-au/akashupadhayay106-au/output/github-contribution-grid-snake.svg" alt="snake" />
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=akashupadhayay106-au&label=PROFILE%20VIEWS&color=2196F3&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=akashupadhayay106-au&label=DASHBOARD%20VIEWS&color=2196F3&style=for-the-badge" />
 </div>
 
 ---
 <p align="center">
-  <b>Designed with Precision & Passion for Kalicharan Upadhayay</b>
+  <b>System Status: Operational | Designed for Kalicharan Upadhayay</b><br/>
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg" height="25" />
+  <img src="https://forthebadge.com/images/badges/made-with-python.svg" height="25" />
 </p>
